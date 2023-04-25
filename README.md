@@ -37,3 +37,10 @@ pipenv run python main.py
 pip install -q build
 python -m build
 ```
+
+## Пример использования бота
+<p>
+<img src="https://user-images.githubusercontent.com/36643075/234236503-7da5917d-4009-4702-8cbd-a5808bac6a8a.jpg" alt="Фото 1" width=280 height="530">
+<img src="https://user-images.githubusercontent.com/36643075/234237426-105571f8-9d82-4264-8923-66322b6dd31a.jpg" alt="Фото 2" width=280 height="530">
+<img src="https://user-images.githubusercontent.com/36643075/234237532-5804ff52-e527-4c91-9da9-8a951ec7944f.jpg" alt="Фото 2" width=280 height="530">
+</p>
