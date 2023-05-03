@@ -31,11 +31,11 @@ venv\Scripts\activate
 py -m pip install -r requirements.txt
 pipenv run python main.py
 ```
-
-## Команда для генерации дистрибутива
+или
 ```
-pip install -q build
 python -m build
+cd app 
+python main.py
 ```
 
 ## Пример использования бота
