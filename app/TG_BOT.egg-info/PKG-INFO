@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: TG-BOT
+Version: 0.0.1
+Summary: Package Bot
+Author: Anastasia Strelkova, Angelina Shalimanova, Valery Pecinjarz
+Requires-Python: >=3.10

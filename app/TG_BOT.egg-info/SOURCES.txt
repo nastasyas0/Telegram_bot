@@ -1,0 +1,6 @@
+setup.py
+app/TG_BOT.egg-info/PKG-INFO
+app/TG_BOT.egg-info/SOURCES.txt
+app/TG_BOT.egg-info/dependency_links.txt
+app/TG_BOT.egg-info/requires.txt
+app/TG_BOT.egg-info/top_level.txt

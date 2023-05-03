@@ -26,7 +26,7 @@ def get_db(city):
     :param city: название введённого города
     :return: data: Информация о городе из базы данных
     """
-    connect = sqlite3.connect('db.db')
+    connect = sqlite3.connect('../db.db')
     cursor = connect.cursor()
     query = 'SELECT * FROM trip WHERE city = ?'
     cursor.execute(query, (city,))
