@@ -1,0 +1,18 @@
+version: "3.9"
+services:
+ app:
+  build:
+   context: './app/'
+   dockerfile: "./Dockerfile"
+  restart: always
+ postgres:
+  image: postgres:latest
+  environment:
+   POSTGRES_DB: "db"
+   POSTGRES_USER: "user"
+   POSTGRES_PASSWORD: "password"
+  build:
+   context: '.'
+   dockerfile: "./Dockerfile"
+  ports:
+   - "60101:5432"
