@@ -31,7 +31,7 @@ venv\Scripts\activate
 py -m pip install -r requirements.txt
 pipenv run python main.py
 ```
-![image](https://github.com/nastasyas0/Telegram_bot/assets/36643075/ebbba72a-1312-4079-9ade-c15332b3b162)
+
 
 
 ## Команда для генерации дистрибутива
@@ -39,3 +39,4 @@ pipenv run python main.py
 pip install -q build
 python -m build
 ```
+![image](https://github.com/nastasyas0/Telegram_bot/assets/36643075/ebbba72a-1312-4079-9ade-c15332b3b162)
